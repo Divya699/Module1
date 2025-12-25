@@ -21,5 +21,6 @@ else:
 
 ```
 ## Output
+<img width="587" height="459" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/a60b46dd-6e5f-4d43-bf01-91b3255e9a0e" />
 
 ## Result
