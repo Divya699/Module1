@@ -35,4 +35,5 @@ print("d:", d)
 
 ## Result
 
+Thus the program has been successfully executed.
 
